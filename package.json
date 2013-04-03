@@ -1,0 +1,19 @@
+{
+  "name": "multiparse",
+  "version": "1.0.0",
+  "description": "A module that can load multiple instances of the Parse Javascript SDK",
+  "keywords": [
+    "cloud",
+    "mobile",
+    "api"
+  ],
+  "main": "multiparse.js",
+  "dependencies": {
+    "parse": "*"
+  },
+  "author": {
+    "name": "Ziad Saab",
+    "email": "ziad.saab@gmail.com",
+    "url": "http://www.github.com/ziad-saab/"
+  }
+}
